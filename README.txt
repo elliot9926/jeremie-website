@@ -7,6 +7,9 @@ First of its kind on H5U! Astral features a flat, minimalistic design, a fully a
 interface (with noscript fallbacks), and styling for all basic page elements (including
 blockquotes, tables and lists). Enjoy!
 
+
+GLURCK GLUCK!! 
+
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
